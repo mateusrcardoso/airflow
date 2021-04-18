@@ -6,6 +6,3 @@ Reference: https://airflow.apache.org/docs/apache-airflow/stable/start/docker.ht
 
 ## architecture
 Reference: https://airflow.apache.org/docs/apache-airflow/stable/concepts.html#architecture
-
-## problem
-This command failed: docker-compose up airflow-init
